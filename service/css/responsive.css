@@ -511,6 +511,15 @@
 
 /* Mobile Layout: 320px. */
 @media only screen and (max-width: 767px) { 
+
+.modal-content {
+/*  background-color: #fefefe;*/
+  margin: auto;
+  padding: 20px;
+/*  border: 1px solid #888;*/
+  width: 100%;
+}
+
     
 /*** 
 =============================================
@@ -1119,7 +1128,13 @@
 @media only screen and (min-width: 480px) and (max-width: 767px) {
 
     
-    
+.modal-content {
+/*  background-color: #fefefe;*/
+  margin: auto;
+  padding: 20px;
+/*  border: 1px solid #888;*/
+  width: 60%;
+}   
     
     
  
